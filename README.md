@@ -87,6 +87,3 @@ This project helped me gain practical experience in:
 
 ---
 
-## 📄 License
-
-This project is developed for educational and learning purposes.
